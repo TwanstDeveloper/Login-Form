@@ -1,0 +1,13 @@
+C:\Users\sha pc\source\repos\Login Form\Login Form\bin\Debug\Login Form.exe.config
+C:\Users\sha pc\source\repos\Login Form\Login Form\bin\Debug\Login Form.exe
+C:\Users\sha pc\source\repos\Login Form\Login Form\bin\Debug\Login Form.pdb
+C:\Users\sha pc\source\repos\Login Form\Login Form\bin\Debug\Guna.UI2.dll
+C:\Users\sha pc\source\repos\Login Form\Login Form\obj\Debug\Login Form.csproj.AssemblyReference.cache
+C:\Users\sha pc\source\repos\Login Form\Login Form\obj\Debug\Login_Form.Form1.resources
+C:\Users\sha pc\source\repos\Login Form\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Users\sha pc\source\repos\Login Form\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+C:\Users\sha pc\source\repos\Login Form\Login Form\obj\Debug\Login Form.csproj.CoreCompileInputs.cache
+C:\Users\sha pc\source\repos\Login Form\Login Form\obj\Debug\Login Form.csproj.CopyComplete
+C:\Users\sha pc\source\repos\Login Form\Login Form\obj\Debug\Login Form.exe
+C:\Users\sha pc\source\repos\Login Form\Login Form\obj\Debug\Login Form.pdb
+C:\Users\sha pc\source\repos\Login Form\Login Form\obj\Debug\Login_Form.Form2.resources
